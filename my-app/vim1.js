@@ -1,5 +1,6 @@
 function anc()
 {
-console.log("hi");
+
+console.log("hi!123");
 }
 anc();
